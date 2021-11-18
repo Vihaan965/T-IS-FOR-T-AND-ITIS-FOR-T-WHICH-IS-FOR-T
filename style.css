@@ -1,0 +1,23 @@
+.background {
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: blue; 
+      font-size: 40px;
+  }
+  
+  #Canvas
+  {
+  
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  body{
+      background-color: blue;
+  }
